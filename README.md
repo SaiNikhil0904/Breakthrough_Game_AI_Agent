@@ -31,7 +31,7 @@ Feel free to explore our codebase, try different strategies, and understand how 
 
 ## Contact Us
 For inquiries, collaboration opportunities, or further information, please feel free to reach out to us:
-- **Godavarthi Sai Nikhil:** [Email](nikhilgodavarthi9@gmail.com)
-- **Anish Borkar:** [Email](anishborkar73@gmail.com)
+- **Godavarthi Sai Nikhil:** nikhilgodavarthi9@gmail.com
+- **Anish Borkar:** anishborkar73@gmail.com
 
 Thank you for exploring our Breakthrough Game project! Join us in this journey of intelligent gameplay and reinforcement learning.
