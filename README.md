@@ -27,7 +27,7 @@ The primary objective of this project is to create an AI player for the Breakthr
 Our intelligent AI player contributes to the field of reinforcement learning, showcasing adaptability and dynamic decision-making. The project includes a sensitivity analysis, providing insights into the impact of hyperparameters such as the discount factor, learning rate, and epsilon decay rate on the learning dynamics of the algorithm.
 
 ## Explore the Work
-Feel free to explore our codebase, try different strategies, and understand how the Q-Learning algorithm evolves with each game. Check out our [Colab Notebook](https://colab.research.google.com/drive/1rJF-BEhjmXPAv3yZs3SJEF2W3ngqUS3K?usp=sharing).
+Feel free to explore our codebase, try different strategies, and understand how the Q-Learning algorithm evolves with each game. Check out our [Colab Notebook](https://colab.research.google.com/drive/1k20dgTXAw3rYJ4mMZ4lUyAzkJ1ZMDFEj?usp=sharing).
 
 ### Sample Images
 
